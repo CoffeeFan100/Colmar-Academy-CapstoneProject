@@ -1,0 +1,1 @@
+CodeCademy off-platform capstone project that tasks you with designing and creating the landing page for a new school.

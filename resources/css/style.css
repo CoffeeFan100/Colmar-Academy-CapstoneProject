@@ -553,4 +553,9 @@ footer ul {
     footer p {
         font-size: 13px;
     }
+
+    footer {
+        margin: 0;
+        display: flex;
+    }
 }

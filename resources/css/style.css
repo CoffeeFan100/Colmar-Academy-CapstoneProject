@@ -544,14 +544,13 @@ footer ul {
         display: none;
     }
 
-    footer {
-        padding: 4em 1em 1em;
-        border: none;
-    }
-
     .thesis-banner .left-cta {
         margin: 0;
         width: 100%;
-        display: flex;
+        display: contents;
+    }
+
+    footer p {
+        font-size: 13px;
     }
 }

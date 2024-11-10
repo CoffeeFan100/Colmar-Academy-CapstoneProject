@@ -548,4 +548,10 @@ footer ul {
         padding: 4em 1em 1em;
         border: none;
     }
+
+    .thesis-banner .left-cta {
+        margin: 0;
+        width: 100%;
+        display: flex;
+    }
 }
